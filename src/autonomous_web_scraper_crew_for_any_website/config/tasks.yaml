@@ -1,0 +1,42 @@
+---
+domain_mapping_task:
+  description: Using {target_url}, initiate the crawl with SeleniumScrapingTool and
+    ScrapeWebsiteTool to discover all internal pages. Ensure the process respects
+    robots.txt and efficiently handles dynamic content. Output should include a list
+    of pages with their URLs and raw HTML content.
+  expected_output: A complete map of pages from {target_url} with each entry containing
+    {url} and the corresponding raw HTML content.
+  async_execution: false
+  agent: crawler_expert
+content_extraction_task:
+  description: For each page discovered in {target_url}, extract structured content
+    including titles, headers, metadata, text, images (with alt text), links, tables,
+    and document references using libraries like BeautifulSoup4 and lxml. This task
+    should transform raw HTML into well-organized data.
+  expected_output: Detailed structured data for each page, including fields such as
+    {title}, {headers}, {metadata}, {text}, {images}, {links}, {tables}, and {documents}.
+  async_execution: false
+  agent: content_miner
+  context:
+  - domain_mapping_task
+archival_processing_task:
+  description: Analyze the extracted content from {target_url} and identify any historical
+    or archived content. Append a snapshot timestamp and relevant notes to each page's
+    data.
+  expected_output: Each page's data enriched with an archived snapshot containing
+    {timestamp} and a note indicating the archival status.
+  async_execution: false
+  agent: history_archivist
+  context:
+  - domain_mapping_task
+  - content_extraction_task
+data_structuring_storage_task:
+  description: Compile and organize the archived data from {target_url} into structured
+    JSON and CSV formats. Ensure the output preserves the website's hierarchy and
+    is ready for further processing.
+  expected_output: A complete structured JSON file and a corresponding CSV file containing
+    all the gathered data from {target_url} with preserved page hierarchy.
+  async_execution: false
+  agent: data_organizer
+  context:
+  - archival_processing_task
