@@ -12,7 +12,7 @@ class WebScrapingAgentAutomationCrew():
     def navigator(self) -> Agent:
         return Agent(
             config=self.agents_config['navigator'],
-            tools=[],
+            tools=[ScrapeWebsiteTool(), SeleniumScrapingTool()],
         )
 
     @agent
