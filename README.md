@@ -23,3 +23,5 @@ WebScrapingAgentAutomationCrew/
 └── tests/
 
 +agnet : filter(la vie des etudants + relation avec info ,   ) +  faq.uir.ma
+
+06/05

@@ -1,0 +1,746 @@
+[
+    {
+        "question": "Qui peut s’inscrire à l’ENIAD Berkane ?",
+        "answer": "Les titulaires du DUT, DEUST, DEUG ou d’une licence (professionnelle, fondamentale ou sciences et techniques), selon les conditions de sélection du ministère."
+    },
+    {
+        "question": "L’assurance est-elle obligatoire ?",
+        "answer": "Oui, une assurance annuelle est obligatoire pour s’inscrire ou se réinscrire."
+    },
+    {
+        "question": "Qui est l’interlocuteur de l’administration pour les étudiants ?",
+        "answer": "Seuls les étudiants majeurs sont les interlocuteurs valables. Les parents ou amis ne le sont pas."
+    },
+    {
+        "question": "Est-ce que l’assiduité est obligatoire ?",
+        "answer": "Oui, l’assiduité à toutes les activités pédagogiques est obligatoire."
+    },
+    {
+        "question": "Que se passe-t-il si un étudiant dépasse 7h30 d’absences injustifiées ?",
+        "answer": "Il est exclu pour un jour. En cas de répétition, l’exclusion est de trois jours et une récidive entraîne un passage en conseil de discipline."
+    },
+    {
+        "question": "Dans quel délai un justificatif d’absence doit-il être remis ?",
+        "answer": "Dans les 48 heures suivant l’absence."
+    },
+    {
+        "question": "Peut-on utiliser son téléphone portable pendant les cours ?",
+        "answer": "Non, il doit être éteint. L’étudiant sera exclu de l’activité en cas de non-respect."
+    },
+    {
+        "question": "Quels sont les comportements interdits à l’ENIAD ?",
+        "answer": "Insultes, menaces, violences, vandalisme, comportements irrespectueux (directs ou via les réseaux sociaux)."
+    },
+    {
+        "question": "Quelle est la tenue vestimentaire exigée ?",
+        "answer": "Une tenue appropriée est obligatoire à l’école, lors des visites et des stages."
+    },
+    {
+        "question": "Que se passe-t-il en cas d’absence non justifiée à un contrôle ?",
+        "answer": "La note zéro est attribuée automatiquement."
+    },
+    {
+        "question": "Que se passe-t-il si l’absence à un contrôle est justifiée ?",
+        "answer": "Un contrôle de remplacement peut être organisé, mais l’étudiant doit en faire la demande dans un délai d’une semaine."
+    },
+    {
+        "question": "Peut-on sortir de la salle avant 30 minutes pendant un examen ?",
+        "answer": "Non, il faut rester au moins 30 minutes. Un retard de plus de 15 minutes interdit l’accès à la salle."
+    },
+    {
+        "question": "Le prêt de matériel est-il autorisé pendant une épreuve ?",
+        "answer": "Non, le prêt de calculatrices ou de matériel est interdit."
+    },
+    {
+        "question": "Est-ce que l’accès aux locaux est libre ?",
+        "answer": "Non, l’accès est interdit hors des séquences pédagogiques sans autorisation."
+    },
+    {
+        "question": "Peut-on utiliser Internet librement ?",
+        "answer": "Non, son usage doit rester pédagogique, sinon des sanctions sont possibles."
+    },
+    {
+        "question": "Peut-on diffuser des travaux pédagogiques en ligne ?",
+        "answer": "Non, cela nécessite l’autorisation des enseignants encadrants."
+    },
+    {
+        "question": "Peut-on utiliser le logo de l’école librement ?",
+        "answer": "Non, cela nécessite l’autorisation de la Direction."
+    },
+    {
+        "question": "L’usage de la bibliothèque est-il libre ?",
+        "answer": "Non, il est soumis à un règlement consultable auprès de la direction."
+    },
+    {
+        "question": "Peut-on fumer dans l’établissement ?",
+        "answer": "Non, il est strictement interdit de fumer."
+    },
+    {
+        "question": "Le bizutage est-il autorisé ?",
+        "answer": "Non, il est strictement interdit."
+    },
+    {
+        "question": "Que faire pour organiser une réunion ou une activité ?",
+        "answer": "Une autorisation écrite préalable doit être demandée à la direction."
+    },
+    {
+        "question": "Peut-on afficher librement dans l’école ?",
+        "answer": "Non, tout affichage doit être autorisé par la direction."
+    },
+    {
+        "question": "Quelle est la conduite attendue des étudiants ?",
+        "answer": "Respect des horaires, des enseignants, des personnels et des camarades. La tenue et le comportement sont des éléments clés d’insertion professionnelle."
+    },
+    {
+        "question": "Quel est le rôle du conseil d’établissement ?",
+        "answer": "Le conseil d’établissement est responsable de l’approbation et de la modification du règlement intérieur."
+    },
+    {
+        "question": "Quelles sont les valeurs que les étudiants doivent respecter ?",
+        "answer": "Les étudiants doivent respecter les constantes et le système de valeurs du Maroc, y compris les symboles nationaux."
+    },
+    {
+        "question": "Quelle est la conséquence d’une absence de plus de 3 semaines ?",
+        "answer": "Elle est considérée comme incompatible avec l’acquisition des compétences. Le conseil pédagogique statue au cas par cas."
+    },
+    {
+        "question": "Quelle est la conséquence d’un retard supérieur à 15 minutes à un examen ?",
+        "answer": "L’étudiant n’est pas autorisé à entrer dans la salle et ne bénéficie d’aucune prolongation de temps."
+    },
+    {
+        "question": "Quelle est la sanction en cas de fraude ?",
+        "answer": "Toute fraude ou tentative de fraude est passible d’une procédure disciplinaire."
+    },
+    {
+        "question": "L’utilisation des téléphones est-elle autorisée pendant les examens ?",
+        "answer": "Non, ils doivent être éteints pendant toute la durée de l’épreuve."
+    },
+    {
+        "question": "Les contrôles peuvent-ils être annoncés à l’avance ?",
+        "answer": "Non, ils peuvent être réalisés à tout moment sans préavis."
+    },
+    {
+        "question": "Qui décide de la répartition des étudiants en salle d’examen ?",
+        "answer": "L’enseignant et les surveillants sont responsables de la répartition."
+    },
+    {
+        "question": "Peut-on rester dans les salles après la fin des cours ?",
+        "answer": "Non, sauf si une dérogation est accordée par la direction."
+    },
+    {
+        "question": "Que risque un étudiant qui utilise Internet à des fins non pédagogiques ?",
+        "answer": "Il peut être sanctionné et même passer devant le conseil disciplinaire."
+    },
+    {
+        "question": "Les appareils numériques sont-ils autorisés en cours ?",
+        "answer": "Oui, uniquement avec l’accord préalable de l’enseignant."
+    },
+    {
+        "question": "Peut-on utiliser les locaux sociaux pour des réunions privées ?",
+        "answer": "Non, ils sont réservés à un usage conforme au règlement intérieur."
+    },
+    {
+        "question": "Quelle est la réglementation sur les produits interdits ?",
+        "answer": "La détention ou l’usage de stupéfiants, alcool, psychotropes ou cigarettes électroniques entraîne des sanctions graves et des poursuites judiciaires."
+    },
+    {
+        "question": "La propreté des locaux est-elle la responsabilité de l’administration uniquement ?",
+        "answer": "Non, elle est l’affaire de tous. Toute dégradation engage la responsabilité du fautif."
+    },
+    {
+        "question": "À quoi correspond la composante C1 ?",
+        "answer": "La composante C1 correspond à Bureaux enseignants, située dans la section 'Administration'."
+    },
+    {
+        "question": "Où se trouve Bureaux enseignants ?",
+        "answer": "Bureaux enseignants se trouve dans la composante C1 du Administration."
+    },
+    {
+        "question": "Quel est le code pour Bureaux enseignants ?",
+        "answer": "Le code pour Bureaux enseignants est C1."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante C1 ?",
+        "answer": "On trouve Bureaux enseignants dans la composante C1."
+    },
+    {
+        "question": "Dans quelle section se situe la composante C1 ?",
+        "answer": "La composante C1 se situe dans la section 'Administration'."
+    },
+    {
+        "question": "À quoi correspond la composante C2 ?",
+        "answer": "La composante C2 correspond à Bureaux de services, située dans la section 'Administration'."
+    },
+    {
+        "question": "Où se trouve Bureaux de services ?",
+        "answer": "Bureaux de services se trouve dans la composante C2 du Administration."
+    },
+    {
+        "question": "Quel est le code pour Bureaux de services ?",
+        "answer": "Le code pour Bureaux de services est C2."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante C2 ?",
+        "answer": "On trouve Bureaux de services dans la composante C2."
+    },
+    {
+        "question": "Dans quelle section se situe la composante C2 ?",
+        "answer": "La composante C2 se situe dans la section 'Administration'."
+    },
+    {
+        "question": "À quoi correspond la composante C3 ?",
+        "answer": "La composante C3 correspond à Affaires estudiantines, située dans la section 'Administration'."
+    },
+    {
+        "question": "Où se trouve Affaires estudiantines ?",
+        "answer": "Affaires estudiantines se trouve dans la composante C3 du Administration."
+    },
+    {
+        "question": "Quel est le code pour Affaires estudiantines ?",
+        "answer": "Le code pour Affaires estudiantines est C3."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante C3 ?",
+        "answer": "On trouve Affaires estudiantines dans la composante C3."
+    },
+    {
+        "question": "Dans quelle section se situe la composante C3 ?",
+        "answer": "La composante C3 se situe dans la section 'Administration'."
+    },
+    {
+        "question": "À quoi correspond la composante C4 ?",
+        "answer": "La composante C4 correspond à Archives, située dans la section 'Administration'."
+    },
+    {
+        "question": "Où se trouve Archives ?",
+        "answer": "Archives se trouve dans la composante C4 du Administration."
+    },
+    {
+        "question": "Quel est le code pour Archives ?",
+        "answer": "Le code pour Archives est C4."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante C4 ?",
+        "answer": "On trouve Archives dans la composante C4."
+    },
+    {
+        "question": "Dans quelle section se situe la composante C4 ?",
+        "answer": "La composante C4 se situe dans la section 'Administration'."
+    },
+    {
+        "question": "À quoi correspond la composante B3 ?",
+        "answer": "La composante B3 correspond à Amphithéâtres, située dans la section 'Centre académique'."
+    },
+    {
+        "question": "Où se trouve Amphithéâtres ?",
+        "answer": "Amphithéâtres se trouve dans la composante B3 du Centre académique."
+    },
+    {
+        "question": "Quel est le code pour Amphithéâtres ?",
+        "answer": "Le code pour Amphithéâtres est B3."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante B3 ?",
+        "answer": "On trouve Amphithéâtres dans la composante B3."
+    },
+    {
+        "question": "Dans quelle section se situe la composante B3 ?",
+        "answer": "La composante B3 se situe dans la section 'Centre académique'."
+    },
+    {
+        "question": "À quoi correspond la composante A1/B1 ?",
+        "answer": "La composante A1/B1 correspond à Salles de cours, située dans la section 'Centre académique'."
+    },
+    {
+        "question": "Où se trouve Salles de cours ?",
+        "answer": "Salles de cours se trouve dans la composante A1/B1 du Centre académique."
+    },
+    {
+        "question": "Quel est le code pour Salles de cours ?",
+        "answer": "Le code pour Salles de cours est A1/B1."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante A1/B1 ?",
+        "answer": "On trouve Salles de cours dans la composante A1/B1."
+    },
+    {
+        "question": "Dans quelle section se situe la composante A1/B1 ?",
+        "answer": "La composante A1/B1 se situe dans la section 'Centre académique'."
+    },
+    {
+        "question": "À quoi correspond la composante A2/B2 ?",
+        "answer": "La composante A2/B2 correspond à Salles d'informatique, située dans la section 'Centre académique'."
+    },
+    {
+        "question": "Où se trouve Salles d'informatique ?",
+        "answer": "Salles d'informatique se trouve dans la composante A2/B2 du Centre académique."
+    },
+    {
+        "question": "Quel est le code pour Salles d'informatique ?",
+        "answer": "Le code pour Salles d'informatique est A2/B2."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante A2/B2 ?",
+        "answer": "On trouve Salles d'informatique dans la composante A2/B2."
+    },
+    {
+        "question": "Dans quelle section se situe la composante A2/B2 ?",
+        "answer": "La composante A2/B2 se situe dans la section 'Centre académique'."
+    },
+    {
+        "question": "À quoi correspond la composante D1 ?",
+        "answer": "La composante D1 correspond à Hall d'accueil, située dans la section 'Espace événementiel'."
+    },
+    {
+        "question": "Où se trouve Hall d'accueil ?",
+        "answer": "Hall d'accueil se trouve dans la composante D1 du Espace événementiel."
+    },
+    {
+        "question": "Quel est le code pour Hall d'accueil ?",
+        "answer": "Le code pour Hall d'accueil est D1."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante D1 ?",
+        "answer": "On trouve Hall d'accueil dans la composante D1."
+    },
+    {
+        "question": "Dans quelle section se situe la composante D1 ?",
+        "answer": "La composante D1 se situe dans la section 'Espace événementiel'."
+    },
+    {
+        "question": "À quoi correspond la composante D2 ?",
+        "answer": "La composante D2 correspond à Auditorium, située dans la section 'Espace événementiel'."
+    },
+    {
+        "question": "Où se trouve Auditorium ?",
+        "answer": "Auditorium se trouve dans la composante D2 du Espace événementiel."
+    },
+    {
+        "question": "Quel est le code pour Auditorium ?",
+        "answer": "Le code pour Auditorium est D2."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante D2 ?",
+        "answer": "On trouve Auditorium dans la composante D2."
+    },
+    {
+        "question": "Dans quelle section se situe la composante D2 ?",
+        "answer": "La composante D2 se situe dans la section 'Espace événementiel'."
+    },
+    {
+        "question": "À quoi correspond la composante D3 ?",
+        "answer": "La composante D3 correspond à Réfectoire, située dans la section 'Espace événementiel'."
+    },
+    {
+        "question": "Où se trouve Réfectoire ?",
+        "answer": "Réfectoire se trouve dans la composante D3 du Espace événementiel."
+    },
+    {
+        "question": "Quel est le code pour Réfectoire ?",
+        "answer": "Le code pour Réfectoire est D3."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante D3 ?",
+        "answer": "On trouve Réfectoire dans la composante D3."
+    },
+    {
+        "question": "Dans quelle section se situe la composante D3 ?",
+        "answer": "La composante D3 se situe dans la section 'Espace événementiel'."
+    },
+    {
+        "question": "À quoi correspond la composante E1 ?",
+        "answer": "La composante E1 correspond à Hall d'accueil (bibliothèque), située dans la section 'Bibliothèque'."
+    },
+    {
+        "question": "Où se trouve Hall d'accueil (bibliothèque) ?",
+        "answer": "Hall d'accueil (bibliothèque) se trouve dans la composante E1 du Bibliothèque."
+    },
+    {
+        "question": "Quel est le code pour Hall d'accueil (bibliothèque) ?",
+        "answer": "Le code pour Hall d'accueil (bibliothèque) est E1."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante E1 ?",
+        "answer": "On trouve Hall d'accueil (bibliothèque) dans la composante E1."
+    },
+    {
+        "question": "Dans quelle section se situe la composante E1 ?",
+        "answer": "La composante E1 se situe dans la section 'Bibliothèque'."
+    },
+    {
+        "question": "À quoi correspond la composante E2 ?",
+        "answer": "La composante E2 correspond à Salle de photocopie / Stock, située dans la section 'Bibliothèque'."
+    },
+    {
+        "question": "Où se trouve Salle de photocopie / Stock ?",
+        "answer": "Salle de photocopie / Stock se trouve dans la composante E2 du Bibliothèque."
+    },
+    {
+        "question": "Quel est le code pour Salle de photocopie / Stock ?",
+        "answer": "Le code pour Salle de photocopie / Stock est E2."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante E2 ?",
+        "answer": "On trouve Salle de photocopie / Stock dans la composante E2."
+    },
+    {
+        "question": "Dans quelle section se situe la composante E2 ?",
+        "answer": "La composante E2 se situe dans la section 'Bibliothèque'."
+    },
+    {
+        "question": "À quoi correspond la composante E3 ?",
+        "answer": "La composante E3 correspond à Salle des ordinateurs, située dans la section 'Bibliothèque'."
+    },
+    {
+        "question": "Où se trouve Salle des ordinateurs ?",
+        "answer": "Salle des ordinateurs se trouve dans la composante E3 du Bibliothèque."
+    },
+    {
+        "question": "Quel est le code pour Salle des ordinateurs ?",
+        "answer": "Le code pour Salle des ordinateurs est E3."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante E3 ?",
+        "answer": "On trouve Salle des ordinateurs dans la composante E3."
+    },
+    {
+        "question": "Dans quelle section se situe la composante E3 ?",
+        "answer": "La composante E3 se situe dans la section 'Bibliothèque'."
+    },
+    {
+        "question": "À quoi correspond la composante E4 ?",
+        "answer": "La composante E4 correspond à Salle de stockage, située dans la section 'Bibliothèque'."
+    },
+    {
+        "question": "Où se trouve Salle de stockage ?",
+        "answer": "Salle de stockage se trouve dans la composante E4 du Bibliothèque."
+    },
+    {
+        "question": "Quel est le code pour Salle de stockage ?",
+        "answer": "Le code pour Salle de stockage est E4."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante E4 ?",
+        "answer": "On trouve Salle de stockage dans la composante E4."
+    },
+    {
+        "question": "Dans quelle section se situe la composante E4 ?",
+        "answer": "La composante E4 se situe dans la section 'Bibliothèque'."
+    },
+    {
+        "question": "À quoi correspond la composante E5 ?",
+        "answer": "La composante E5 correspond à Bureaux (bibliothèque), située dans la section 'Bibliothèque'."
+    },
+    {
+        "question": "Où se trouve Bureaux (bibliothèque) ?",
+        "answer": "Bureaux (bibliothèque) se trouve dans la composante E5 du Bibliothèque."
+    },
+    {
+        "question": "Quel est le code pour Bureaux (bibliothèque) ?",
+        "answer": "Le code pour Bureaux (bibliothèque) est E5."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante E5 ?",
+        "answer": "On trouve Bureaux (bibliothèque) dans la composante E5."
+    },
+    {
+        "question": "Dans quelle section se situe la composante E5 ?",
+        "answer": "La composante E5 se situe dans la section 'Bibliothèque'."
+    },
+    {
+        "question": "À quoi correspond la composante F1 ?",
+        "answer": "La composante F1 correspond à Cafétéria, située dans la section 'Locaux divers'."
+    },
+    {
+        "question": "Où se trouve Cafétéria ?",
+        "answer": "Cafétéria se trouve dans la composante F1 du Locaux divers."
+    },
+    {
+        "question": "Quel est le code pour Cafétéria ?",
+        "answer": "Le code pour Cafétéria est F1."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante F1 ?",
+        "answer": "On trouve Cafétéria dans la composante F1."
+    },
+    {
+        "question": "Dans quelle section se situe la composante F1 ?",
+        "answer": "La composante F1 se situe dans la section 'Locaux divers'."
+    },
+    {
+        "question": "À quoi correspond la composante F2 ?",
+        "answer": "La composante F2 correspond à Infirmerie, située dans la section 'Locaux divers'."
+    },
+    {
+        "question": "Où se trouve Infirmerie ?",
+        "answer": "Infirmerie se trouve dans la composante F2 du Locaux divers."
+    },
+    {
+        "question": "Quel est le code pour Infirmerie ?",
+        "answer": "Le code pour Infirmerie est F2."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante F2 ?",
+        "answer": "On trouve Infirmerie dans la composante F2."
+    },
+    {
+        "question": "Dans quelle section se situe la composante F2 ?",
+        "answer": "La composante F2 se situe dans la section 'Locaux divers'."
+    },
+    {
+        "question": "À quoi correspond la composante F3 ?",
+        "answer": "La composante F3 correspond à Salles de prières et ablutions, située dans la section 'Locaux divers'."
+    },
+    {
+        "question": "Où se trouve Salles de prières et ablutions ?",
+        "answer": "Salles de prières et ablutions se trouve dans la composante F3 du Locaux divers."
+    },
+    {
+        "question": "Quel est le code pour Salles de prières et ablutions ?",
+        "answer": "Le code pour Salles de prières et ablutions est F3."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante F3 ?",
+        "answer": "On trouve Salles de prières et ablutions dans la composante F3."
+    },
+    {
+        "question": "Dans quelle section se situe la composante F3 ?",
+        "answer": "La composante F3 se situe dans la section 'Locaux divers'."
+    },
+    {
+        "question": "À quoi correspond la composante F4 ?",
+        "answer": "La composante F4 correspond à Salle de repos, située dans la section 'Locaux divers'."
+    },
+    {
+        "question": "Où se trouve Salle de repos ?",
+        "answer": "Salle de repos se trouve dans la composante F4 du Locaux divers."
+    },
+    {
+        "question": "Quel est le code pour Salle de repos ?",
+        "answer": "Le code pour Salle de repos est F4."
+    },
+    {
+        "question": "Que trouve-t-on dans la composante F4 ?",
+        "answer": "On trouve Salle de repos dans la composante F4."
+    },
+    {
+        "question": "Dans quelle section se situe la composante F4 ?",
+        "answer": "La composante F4 se situe dans la section 'Locaux divers'."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'À propos de l'ENIAD' ?",
+        "answer": "La section 'À propos de l'ENIAD' présente les détails concernant à propos de l'eniad de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'À propos de l'ENIAD' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'À propos de l'ENIAD' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'À propos de l'ENIAD' ?",
+        "answer": "La section 'À propos de l'ENIAD' permet aux utilisateurs de consulter les informations relatives à à propos de l'eniad de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Mot du Directeur' ?",
+        "answer": "La section 'Mot du Directeur' présente les détails concernant mot du directeur de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Mot du Directeur' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Mot du Directeur' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Mot du Directeur' ?",
+        "answer": "La section 'Mot du Directeur' permet aux utilisateurs de consulter les informations relatives à mot du directeur de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Admission' ?",
+        "answer": "La section 'Admission' présente les détails concernant admission de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Admission' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Admission' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Admission' ?",
+        "answer": "La section 'Admission' permet aux utilisateurs de consulter les informations relatives à admission de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Formations' ?",
+        "answer": "La section 'Formations' présente les détails concernant formations de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Formations' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Formations' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Formations' ?",
+        "answer": "La section 'Formations' permet aux utilisateurs de consulter les informations relatives à formations de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Cycle Ingénieur - Ingénierie réseaux et sécurité informatique (IRSI)' ?",
+        "answer": "La section 'Cycle Ingénieur - Ingénierie réseaux et sécurité informatique (IRSI)' présente les détails concernant cycle ingénieur - ingénierie réseaux et sécurité informatique (irsi) de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Cycle Ingénieur - Ingénierie réseaux et sécurité informatique (IRSI)' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Cycle Ingénieur - Ingénierie réseaux et sécurité informatique (IRSI)' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Cycle Ingénieur - Ingénierie réseaux et sécurité informatique (IRSI)' ?",
+        "answer": "La section 'Cycle Ingénieur - Ingénierie réseaux et sécurité informatique (IRSI)' permet aux utilisateurs de consulter les informations relatives à cycle ingénieur - ingénierie réseaux et sécurité informatique (irsi) de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Cycle Ingénieur - Intelligence Artificielle (IA)' ?",
+        "answer": "La section 'Cycle Ingénieur - Intelligence Artificielle (IA)' présente les détails concernant cycle ingénieur - intelligence artificielle (ia) de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Cycle Ingénieur - Intelligence Artificielle (IA)' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Cycle Ingénieur - Intelligence Artificielle (IA)' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Cycle Ingénieur - Intelligence Artificielle (IA)' ?",
+        "answer": "La section 'Cycle Ingénieur - Intelligence Artificielle (IA)' permet aux utilisateurs de consulter les informations relatives à cycle ingénieur - intelligence artificielle (ia) de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Cycle Ingénieur - Robotique et objets connectés (ROC)' ?",
+        "answer": "La section 'Cycle Ingénieur - Robotique et objets connectés (ROC)' présente les détails concernant cycle ingénieur - robotique et objets connectés (roc) de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Cycle Ingénieur - Robotique et objets connectés (ROC)' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Cycle Ingénieur - Robotique et objets connectés (ROC)' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Cycle Ingénieur - Robotique et objets connectés (ROC)' ?",
+        "answer": "La section 'Cycle Ingénieur - Robotique et objets connectés (ROC)' permet aux utilisateurs de consulter les informations relatives à cycle ingénieur - robotique et objets connectés (roc) de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Cycle Ingénieur - Génie Informatique (GINF)' ?",
+        "answer": "La section 'Cycle Ingénieur - Génie Informatique (GINF)' présente les détails concernant cycle ingénieur - génie informatique (ginf) de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Cycle Ingénieur - Génie Informatique (GINF)' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Cycle Ingénieur - Génie Informatique (GINF)' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Cycle Ingénieur - Génie Informatique (GINF)' ?",
+        "answer": "La section 'Cycle Ingénieur - Génie Informatique (GINF)' permet aux utilisateurs de consulter les informations relatives à cycle ingénieur - génie informatique (ginf) de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Formation continue' ?",
+        "answer": "La section 'Formation continue' présente les détails concernant formation continue de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Formation continue' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Formation continue' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Formation continue' ?",
+        "answer": "La section 'Formation continue' permet aux utilisateurs de consulter les informations relatives à formation continue de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Architecture pédagogique' ?",
+        "answer": "La section 'Architecture pédagogique' présente les détails concernant architecture pédagogique de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Architecture pédagogique' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Architecture pédagogique' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Architecture pédagogique' ?",
+        "answer": "La section 'Architecture pédagogique' permet aux utilisateurs de consulter les informations relatives à architecture pédagogique de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Recherche' ?",
+        "answer": "La section 'Recherche' présente les détails concernant recherche de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Recherche' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Recherche' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Recherche' ?",
+        "answer": "La section 'Recherche' permet aux utilisateurs de consulter les informations relatives à recherche de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Pôle des Études Doctorales' ?",
+        "answer": "La section 'Pôle des Études Doctorales' présente les détails concernant pôle des études doctorales de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Pôle des Études Doctorales' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Pôle des Études Doctorales' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Pôle des Études Doctorales' ?",
+        "answer": "La section 'Pôle des Études Doctorales' permet aux utilisateurs de consulter les informations relatives à pôle des études doctorales de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Centres Universitaires' ?",
+        "answer": "La section 'Centres Universitaires' présente les détails concernant centres universitaires de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Centres Universitaires' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Centres Universitaires' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Centres Universitaires' ?",
+        "answer": "La section 'Centres Universitaires' permet aux utilisateurs de consulter les informations relatives à centres universitaires de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Coopération' ?",
+        "answer": "La section 'Coopération' présente les détails concernant coopération de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Coopération' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Coopération' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Coopération' ?",
+        "answer": "La section 'Coopération' permet aux utilisateurs de consulter les informations relatives à coopération de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Gouvernance' ?",
+        "answer": "La section 'Gouvernance' présente les détails concernant gouvernance de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Gouvernance' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Gouvernance' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Gouvernance' ?",
+        "answer": "La section 'Gouvernance' permet aux utilisateurs de consulter les informations relatives à gouvernance de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Espace Étudiant' ?",
+        "answer": "La section 'Espace Étudiant' présente les détails concernant espace étudiant de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Espace Étudiant' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Espace Étudiant' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Espace Étudiant' ?",
+        "answer": "La section 'Espace Étudiant' permet aux utilisateurs de consulter les informations relatives à espace étudiant de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Actualités' ?",
+        "answer": "La section 'Actualités' présente les détails concernant actualités de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Actualités' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Actualités' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Actualités' ?",
+        "answer": "La section 'Actualités' permet aux utilisateurs de consulter les informations relatives à actualités de l'école."
+    },
+    {
+        "question": "Quelles informations trouve-t-on dans la section 'Contact' ?",
+        "answer": "La section 'Contact' présente les détails concernant contact de l'ENIAD Berkane."
+    },
+    {
+        "question": "Où accéder à la section 'Contact' sur le site officiel ?",
+        "answer": "Sur le site eniad.ump.ma, cliquez sur le menu 'Contact' pour accéder à son contenu."
+    },
+    {
+        "question": "Comment utiliser la section 'Contact' ?",
+        "answer": "La section 'Contact' permet aux utilisateurs de consulter les informations relatives à contact de l'école."
+    }
+]

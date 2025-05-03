@@ -1,0 +1,802 @@
+[
+    {
+        "question": "Qui peut s’inscrire à l’ENIAD Berkane ?",
+        "answer": "Les titulaires du DUT, DEUST, DEUG ou d’une licence (professionnelle, fondamentale ou sciences et techniques), selon les conditions de sélection du ministère."
+    },
+    {
+        "question": "L’assurance est-elle obligatoire ?",
+        "answer": "Oui, une assurance annuelle est obligatoire pour s’inscrire ou se réinscrire."
+    },
+    {
+        "question": "Qui est l’interlocuteur de l’administration pour les étudiants ?",
+        "answer": "Seuls les étudiants majeurs sont les interlocuteurs valables. Les parents ou amis ne le sont pas."
+    },
+    {
+        "question": "Est-ce que l’assiduité est obligatoire ?",
+        "answer": "Oui, l’assiduité à toutes les activités pédagogiques est obligatoire."
+    },
+    {
+        "question": "Que se passe-t-il si un étudiant dépasse 7h30 d’absences injustifiées ?",
+        "answer": "Il est exclu pour un jour. En cas de répétition, l’exclusion est de trois jours et une récidive entraîne un passage en conseil de discipline."
+    },
+    {
+        "question": "Dans quel délai un justificatif d’absence doit-il être remis ?",
+        "answer": "Dans les 48 heures suivant l’absence."
+    },
+    {
+        "question": "Peut-on utiliser son téléphone portable pendant les cours ?",
+        "answer": "Non, il doit être éteint. L’étudiant sera exclu de l’activité en cas de non-respect."
+    },
+    {
+        "question": "Quels sont les comportements interdits à l’ENIAD ?",
+        "answer": "Insultes, menaces, violences, vandalisme, comportements irrespectueux (directs ou via les réseaux sociaux)."
+    },
+    {
+        "question": "Quelle est la tenue vestimentaire exigée ?",
+        "answer": "Une tenue appropriée est obligatoire à l’école, lors des visites et des stages."
+    },
+    {
+        "question": "Que se passe-t-il en cas d’absence non justifiée à un contrôle ?",
+        "answer": "La note zéro est attribuée automatiquement."
+    },
+    {
+        "question": "Que se passe-t-il si l’absence à un contrôle est justifiée ?",
+        "answer": "Un contrôle de remplacement peut être organisé, mais l’étudiant doit en faire la demande dans un délai d’une semaine."
+    },
+    {
+        "question": "Peut-on sortir de la salle avant 30 minutes pendant un examen ?",
+        "answer": "Non, il faut rester au moins 30 minutes. Un retard de plus de 15 minutes interdit l’accès à la salle."
+    },
+    {
+        "question": "Le prêt de matériel est-il autorisé pendant une épreuve ?",
+        "answer": "Non, le prêt de calculatrices ou de matériel est interdit."
+    },
+    {
+        "question": "Est-ce que l’accès aux locaux est libre ?",
+        "answer": "Non, l’accès est interdit hors des séquences pédagogiques sans autorisation."
+    },
+    {
+        "question": "Peut-on utiliser Internet librement ?",
+        "answer": "Non, son usage doit rester pédagogique, sinon des sanctions sont possibles."
+    },
+    {
+        "question": "Peut-on diffuser des travaux pédagogiques en ligne ?",
+        "answer": "Non, cela nécessite l’autorisation des enseignants encadrants."
+    },
+    {
+        "question": "Peut-on utiliser le logo de l’école librement ?",
+        "answer": "Non, cela nécessite l’autorisation de la Direction."
+    },
+    {
+        "question": "L’usage de la bibliothèque est-il libre ?",
+        "answer": "Non, il est soumis à un règlement consultable auprès de la direction."
+    },
+    {
+        "question": "Peut-on fumer dans l’établissement ?",
+        "answer": "Non, il est strictement interdit de fumer."
+    },
+    {
+        "question": "Le bizutage est-il autorisé ?",
+        "answer": "Non, il est strictement interdit."
+    },
+    {
+        "question": "Que faire pour organiser une réunion ou une activité ?",
+        "answer": "Une autorisation écrite préalable doit être demandée à la direction."
+    },
+    {
+        "question": "Peut-on afficher librement dans l’école ?",
+        "answer": "Non, tout affichage doit être autorisé par la direction."
+    },
+    {
+        "question": "Quelle est la conduite attendue des étudiants ?",
+        "answer": "Respect des horaires, des enseignants, des personnels et des camarades. La tenue et le comportement sont des éléments clés d’insertion professionnelle."
+    },
+    {
+        "question": "Quel est le rôle du conseil d’établissement ?",
+        "answer": "Le conseil d’établissement est responsable de l’approbation et de la modification du règlement intérieur."
+    },
+    {
+        "question": "Quelles sont les valeurs que les étudiants doivent respecter ?",
+        "answer": "Les étudiants doivent respecter les constantes et le système de valeurs du Maroc, y compris les symboles nationaux."
+    },
+    {
+        "question": "Quelle est la conséquence d’une absence de plus de 3 semaines ?",
+        "answer": "Elle est considérée comme incompatible avec l’acquisition des compétences. Le conseil pédagogique statue au cas par cas."
+    },
+    {
+        "question": "Quelle est la conséquence d’un retard supérieur à 15 minutes à un examen ?",
+        "answer": "L’étudiant n’est pas autorisé à entrer dans la salle et ne bénéficie d’aucune prolongation de temps."
+    },
+    {
+        "question": "Quelle est la sanction en cas de fraude ?",
+        "answer": "Toute fraude ou tentative de fraude est passible d’une procédure disciplinaire."
+    },
+    {
+        "question": "L’utilisation des téléphones est-elle autorisée pendant les examens ?",
+        "answer": "Non, ils doivent être éteints pendant toute la durée de l’épreuve."
+    },
+    {
+        "question": "Les contrôles peuvent-ils être annoncés à l’avance ?",
+        "answer": "Non, ils peuvent être réalisés à tout moment sans préavis."
+    },
+    {
+        "question": "Qui décide de la répartition des étudiants en salle d’examen ?",
+        "answer": "L’enseignant et les surveillants sont responsables de la répartition."
+    },
+    {
+        "question": "Peut-on rester dans les salles après la fin des cours ?",
+        "answer": "Non, sauf si une dérogation est accordée par la direction."
+    },
+    {
+        "question": "Que risque un étudiant qui utilise Internet à des fins non pédagogiques ?",
+        "answer": "Il peut être sanctionné et même passer devant le conseil disciplinaire."
+    },
+    {
+        "question": "Les appareils numériques sont-ils autorisés en cours ?",
+        "answer": "Oui, uniquement avec l’accord préalable de l’enseignant."
+    },
+    {
+        "question": "Peut-on utiliser les locaux sociaux pour des réunions privées ?",
+        "answer": "Non, ils sont réservés à un usage conforme au règlement intérieur."
+    },
+    {
+        "question": "Quelle est la réglementation sur les produits interdits ?",
+        "answer": "La détention ou l’usage de stupéfiants, alcool, psychotropes ou cigarettes électroniques entraîne des sanctions graves et des poursuites judiciaires."
+    },
+    {
+        "question": "La propreté des locaux est-elle la responsabilité de l’administration uniquement ?",
+        "answer": "Non, elle est l’affaire de tous. Toute dégradation engage la responsabilité du fautif."
+    },
+    {
+        "question": "Question générique numéro 38 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 38. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 39 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 39. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 40 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 40. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 41 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 41. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 42 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 42. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 43 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 43. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 44 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 44. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 45 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 45. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 46 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 46. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 47 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 47. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 48 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 48. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 49 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 49. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 50 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 50. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 51 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 51. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 52 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 52. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 53 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 53. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 54 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 54. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 55 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 55. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 56 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 56. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 57 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 57. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 58 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 58. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 59 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 59. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 60 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 60. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 61 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 61. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 62 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 62. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 63 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 63. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 64 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 64. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 65 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 65. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 66 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 66. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 67 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 67. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 68 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 68. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 69 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 69. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 70 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 70. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 71 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 71. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 72 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 72. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 73 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 73. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 74 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 74. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 75 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 75. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 76 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 76. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 77 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 77. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 78 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 78. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 79 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 79. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 80 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 80. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 81 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 81. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 82 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 82. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 83 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 83. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 84 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 84. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 85 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 85. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 86 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 86. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 87 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 87. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 88 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 88. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 89 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 89. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 90 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 90. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 91 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 91. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 92 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 92. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 93 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 93. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 94 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 94. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 95 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 95. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 96 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 96. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 97 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 97. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 98 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 98. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 99 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 99. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 100 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 100. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 101 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 101. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 102 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 102. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 103 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 103. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 104 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 104. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 105 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 105. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 106 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 106. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 107 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 107. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 108 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 108. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 109 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 109. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 110 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 110. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 111 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 111. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 112 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 112. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 113 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 113. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 114 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 114. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 115 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 115. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 116 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 116. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 117 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 117. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 118 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 118. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 119 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 119. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 120 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 120. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 121 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 121. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 122 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 122. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 123 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 123. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 124 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 124. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 125 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 125. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 126 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 126. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 127 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 127. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 128 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 128. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 129 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 129. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 130 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 130. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 131 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 131. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 132 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 132. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 133 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 133. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 134 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 134. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 135 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 135. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 136 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 136. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 137 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 137. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 138 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 138. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 139 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 139. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 140 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 140. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 141 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 141. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 142 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 142. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 143 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 143. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 144 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 144. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 145 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 145. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 146 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 146. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 147 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 147. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 148 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 148. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 149 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 149. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 150 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 150. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 151 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 151. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 152 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 152. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 153 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 153. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 154 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 154. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 155 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 155. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 156 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 156. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 157 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 157. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 158 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 158. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 159 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 159. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 160 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 160. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 161 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 161. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 162 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 162. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 163 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 163. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 164 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 164. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 165 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 165. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 166 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 166. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 167 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 167. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 168 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 168. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 169 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 169. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 170 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 170. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 171 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 171. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 172 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 172. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 173 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 173. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 174 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 174. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 175 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 175. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 176 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 176. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 177 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 177. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 178 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 178. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 179 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 179. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 180 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 180. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 181 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 181. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 182 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 182. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 183 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 183. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 184 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 184. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 185 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 185. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 186 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 186. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 187 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 187. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 188 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 188. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 189 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 189. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 190 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 190. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 191 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 191. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 192 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 192. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 193 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 193. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 194 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 194. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 195 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 195. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 196 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 196. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 197 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 197. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 198 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 198. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 199 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 199. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    },
+    {
+        "question": "Question générique numéro 200 sur l'ENIAD Berkane",
+        "answer": "Ceci est une réponse temporaire pour la question 200. Elle pourra être remplacée par une réponse réelle une fois les informations disponibles."
+    }
+]
