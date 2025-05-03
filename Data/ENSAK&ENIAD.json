@@ -1,0 +1,191 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "Quelle est la mission principale de l'ENIAD Berkane ?",
+        "options": ["Former des ingénieurs", "Offrir des formations en gestion", "Spécialiser en marketing", "Former des techniciens"],
+        "answer": "Former des ingénieurs"
+      },
+      {
+        "id": 2,
+        "question": "Quels départements sont présents à l'ENIAD Berkane ?",
+        "options": ["Informatique, Logistique, Mathématiques", "Gestion, Marketing, Finance", "Droit, Histoire, Littérature", "Biologie, Chimie, Physique"],
+        "answer": "Informatique, Logistique, Mathématiques"
+      },
+      {
+        "id": 3,
+        "question": "Quels cycles d'enseignement sont proposés à l'ENIAD Berkane ?",
+        "options": ["Cycle Ingénieur, Cycle Doctoral", "Cycle Bac, Cycle Master", "Cycle Technicien, Cycle Licence", "Cycle Préparatoire, Cycle Professionnel"],
+        "answer": "Cycle Ingénieur, Cycle Doctoral"
+      },
+      {
+        "id": 4,
+        "question": "L'ENIAD Berkane fait partie de quelle université ?",
+        "options": ["Université Ibn Tofail", "Université Mohammed V", "Université Cadi Ayyad", "Université Hassan II"],
+        "answer": "Université Ibn Tofail"
+      },
+      {
+        "id": 5,
+        "question": "Quel est le but du Cycle Ingénieur à l'ENIAD Berkane ?",
+        "options": ["Former des spécialistes dans des domaines technologiques avancés", "Former des responsables dans les ressources humaines", "Former des experts en économie et finance", "Former des enseignants en sciences sociales"],
+        "answer": "Former des spécialistes dans des domaines technologiques avancés"
+      },
+      {
+        "id": 6,
+        "question": "Quel département à l'ENIAD Berkane est responsable de la formation en génie informatique ?",
+        "options": ["Département Informatique", "Département Génie Électrique", "Département Génie Mécatronique", "Département Logistique"],
+        "answer": "Département Informatique"
+      },
+      {
+        "id": 7,
+        "question": "Quel est le nom du programme pour former des ingénieurs en réseaux et télécommunications à l'ENIAD Berkane ?",
+        "options": ["Génie des réseaux et Systèmes de Télécommunication", "Génie Mécatronique", "Génie Industriel", "Génie Informatique"],
+        "answer": "Génie des réseaux et Systèmes de Télécommunication"
+      },
+      {
+        "id": 8,
+        "question": "Quelle spécialisation de formation continue est disponible à l'ENIAD Berkane ?",
+        "options": ["Master d’Université Spécialisée", "Cycle Ingénieur", "Licence Professionnelle", "Baccalauréat Spécialisé"],
+        "answer": "Master d’Université Spécialisée"
+      },
+      {
+        "id": 9,
+        "question": "Qu'est-ce que la formation initiale à l'ENIAD Berkane ?",
+        "options": ["Une formation pour les étudiants après le baccalauréat", "Un programme de formation pour les professionnels", "Une formation à distance", "Une formation pour les chercheurs"],
+        "answer": "Une formation pour les étudiants après le baccalauréat"
+      },
+      {
+        "id": 10,
+        "question": "Quel est l’objectif des formations doctorales à l’ENIAD Berkane ?",
+        "options": ["Préparer des étudiants à des carrières académiques et de recherche", "Former des ingénieurs pour le secteur industriel", "Former des techniciens pour les entreprises", "Former des experts en gestion"],
+        "answer": "Préparer des étudiants à des carrières académiques et de recherche"
+      },
+      {
+        "id": 11,
+        "question": "Quel est l'objectif du Laboratoire d’Ingénierie des Systèmes Avancés à l'ENIAD Berkane ?",
+        "options": ["Mener des recherches appliquées en ingénierie", "Former des techniciens en mécanique", "Offrir des services de conseil en informatique", "Gérer des projets de développement agricole"],
+        "answer": "Mener des recherches appliquées en ingénierie"
+      },
+      {
+        "id": 12,
+        "question": "Qu'est-ce que la Commission Scientifique de l'ENIAD Berkane ?",
+        "options": ["Un organe de décision pour les projets de recherche", "Un club étudiant", "Une équipe de développement de logiciels", "Un département dédié aux affaires administratives"],
+        "answer": "Un organe de décision pour les projets de recherche"
+      },
+      {
+        "id": 13,
+        "question": "Quel programme vise à améliorer la coopération internationale de l'ENIAD Berkane ?",
+        "options": ["Les conventions internationales", "Le programme Erasmus", "Le programme d'échanges d'étudiants", "Les collaborations avec des entreprises locales"],
+        "answer": "Les conventions internationales"
+      },
+      {
+        "id": 14,
+        "question": "Quel type d'activités parascolaires est disponible à l'ENIAD Berkane ?",
+        "options": ["Clubs et associations étudiantes", "Formations en ligne", "Cafétéria étudiante", "Cours de soutien privé"],
+        "answer": "Clubs et associations étudiantes"
+      },
+      {
+        "id": 15,
+        "question": "Quelle est la première étape d’inscription à l’ENIAD Berkane ?",
+        "options": ["L'inscription sur le site web", "La soumission d'un CV", "Un entretien de sélection", "Une évaluation écrite"],
+        "answer": "L'inscription sur le site web"
+      },
+      {
+        "id": 16,
+        "question": "Quel événement scientifique majeur est organisé à l'ENIAD Berkane ?",
+        "options": ["Les conférences internationales", "Les compétitions d'ingénierie", "Les journées portes ouvertes", "Les concerts et festivals"],
+        "answer": "Les conférences internationales"
+      },
+      {
+        "id": 17,
+        "question": "Quel est le rôle du laboratoire des Sciences de l’Ingénieur à l’ENIAD Berkane ?",
+        "options": ["Réaliser des recherches en sciences de l'ingénierie", "Offrir des stages aux étudiants", "Gérer les finances de l'université", "Proposer des formations pratiques"],
+        "answer": "Réaliser des recherches en sciences de l'ingénierie"
+      },
+      {
+        "id": 18,
+        "question": "Quel type de bourses sont disponibles à l'ENIAD Berkane ?",
+        "options": ["Bourses d'études pour les étudiants méritants", "Bourses de recherche pour les doctorants", "Bourses de mobilité internationale", "Bourses pour les étudiants étrangers"],
+        "answer": "Bourses d'études pour les étudiants méritants"
+      },
+      {
+        "id": 19,
+        "question": "Quel est le département qui gère les formations en génie électrique à l'ENIAD Berkane ?",
+        "options": ["Département Génie Electrique", "Département Génie Industriel", "Département Génie Mécatronique", "Département Informatique"],
+        "answer": "Département Génie Electrique"
+      },
+      {
+        "id": 20,
+        "question": "Quels types de formations sont disponibles dans le cycle d'ingénieur ?",
+        "options": ["Génie des réseaux et systèmes de télécommunication, Génie industriel", "Management, Marketing", "Droit, Philosophie", "Biotechnologie, Chimie"],
+        "answer": "Génie des réseaux et systèmes de télécommunication, Génie industriel"
+      },
+      {
+        "id": 21,
+        "question": "Le cycle préparatoire à l'ENIAD Berkane permet aux étudiants d'entrer dans quel type de programme ?",
+        "options": ["Cycle Ingénieur", "Master d'Université", "Licence Professionnelle", "Formation continue"],
+        "answer": "Cycle Ingénieur"
+      },
+      {
+        "id": 22,
+        "question": "Quelle spécialité est enseignée dans le département de Génie Mécatronique à l'ENIAD Berkane ?",
+        "options": ["Systèmes automatisés et robotique", "Systèmes de télécommunications", "Gestion d'entreprise", "Systèmes énergétiques"],
+        "answer": "Systèmes automatisés et robotique"
+      },
+      {
+        "id": 23,
+        "question": "Quels sont les avantages de l'ENIAD Berkane pour les étudiants étrangers ?",
+        "options": ["Programmes en anglais, bourses de mobilité", "Formation gratuite", "Stage garanti à l'international", "Certificat d'études internationales"],
+        "answer": "Programmes en anglais, bourses de mobilité"
+      },
+      {
+        "id": 24,
+        "question": "Qu'est-ce qu'une soutenance de thèse à l'ENIAD Berkane ?",
+        "options": ["Une présentation des résultats de recherche devant un jury", "Un stage de fin d'études", "Une évaluation finale des compétences pratiques", "Une conférence scientifique"],
+        "answer": "Une présentation des résultats de recherche devant un jury"
+      },
+      {
+        "id": 25,
+        "question": "Quel programme est disponible pour les étudiants de cycle ingénieur pour développer des projets pratiques ?",
+        "options": ["Les projets de fin d'études", "Les séminaires de formation", "Les cours en ligne", "Les conférences invitées"],
+        "answer": "Les projets de fin d'études"
+      },
+      {
+        "id": 26,
+        "question": "Les étudiants à l'ENIAD Berkane peuvent-ils participer à des projets de recherche ?",
+        "options": ["Oui, via les laboratoires de recherche", "Non, uniquement des cours théoriques", "Non, il n'y a pas de projets de recherche", "Oui, mais seulement après leur diplôme"],
+        "answer": "Oui, via les laboratoires de recherche"
+      },
+      {
+        "id": 27,
+        "question": "Quel est le rôle des associations des lauréats de l'ENIAD Berkane ?",
+        "options": ["Soutenir les anciens étudiants dans leur carrière professionnelle", "Organiser des fêtes et événements", "Gérer les finances de l'école", "Participer à l'organisation des cours"],
+        "answer": "Soutenir les anciens étudiants dans leur carrière professionnelle"
+      },
+      {
+        "id": 28,
+        "question": "Quel est le nom de la cérémonie qui honore les lauréats à l'ENIAD Berkane ?",
+        "options": ["Cérémonie de remise des diplômes", "Cérémonie de la rentrée", "Cérémonie de bienvenue", "Cérémonie de la fête annuelle"],
+        "answer": "Cérémonie de remise des diplômes"
+      },
+      {
+        "id": 29,
+        "question": "Quel est l'objectif principal de la coopération avec les entreprises à l'ENIAD Berkane ?",
+        "options": ["Faciliter les stages et emplois pour les étudiants", "Gérer les finances de l'université", "Organiser des salons de recrutement", "Former des experts en marketing"],
+        "answer": "Faciliter les stages et emplois pour les étudiants"
+      },
+      {
+        "id": 30,
+        "question": "Quel programme est proposé pour les étudiants souhaitant se spécialiser dans l'efficacité énergétique ?",
+        "options": ["Efficacité énergétique et bâtiment intelligent", "Génie Mécatronique", "Génie des réseaux", "Gestion de l'environnement"],
+        "answer": "Efficacité énergétique et bâtiment intelligent"
+      },
+      {
+        "id": 31,
+        "question": "À quelle école l'ENIAD Berkane est-elle affiliée ?",
+        "options": ["Université Ibn Tofail", "Université Mohammed V", "Université Hassan II", "Université Cadi Ayyad"],
+        "answer": "Université Med 1"
+      }
+    ]
+  }
+  

@@ -1,0 +1,108 @@
+{
+    "universite": "ENIAD Berkane",
+    "site_web": "www.eniad.ac.ma",
+    "dossier_candidature": {
+      "description": "La candidature à l'ENIAD Berkane se fait via notre site web.",
+      "concours": {
+        "description": "Les étudiants doivent passer un concours pour entrer dans nos programmes.",
+        "dates": [
+          "Mai",
+          "Juin",
+          "Juillet"
+        ],
+        "filiere": "La date du concours dépend de chaque filière."
+      },
+      "eligibilite": {
+        "description": "Les candidats doivent avoir de bonnes notes en contrôle continu de la 1ère et 2ème année BAC.",
+        "lien": "https://candidature.eniad.ump.ma/"
+      }
+    },
+    "formations": {
+      "poles": [
+        "Génie Civil",
+        "Génie Informatique",
+        "Génie Electrique",
+        "Génie Mécanique",
+        "Economie et Gestion",
+        "Systèmes Embarqués",
+        "Intelligence Artificielle",
+        "Réseaux et Télécommunications"
+      ]
+    },
+    "frais_scolarite": {
+      "non_boursiers": {
+        "programmes_generaux": "50000 dhs / an",
+        "architecture": "70000 dhs / an",
+        "medecine_dentaire": "80000 dhs / an"
+      },
+      "frais_inscription": "3000 dhs / an"
+    },
+    "bourses": {
+      "eligibilite": "Les étudiants ayant une mention Bien/Très Bien au Bac peuvent être éligibles, avec des ressources financières limitées.",
+      "candidature": "Les candidats doivent soumettre une candidature en ligne sur www.eniad.ac.ma sous l'onglet 'Candidature'."
+    },
+    "etudiants_internationaux": {
+      "description": "Les étudiants internationaux peuvent candidater via le menu 'Admissions' puis 'ÉTUDIANTS INTERNATIONAUX'.",
+      "email_contact": "contact@eniad.ac.ma",
+      "aide": "Les étudiants doivent préciser leur cas par email pour obtenir de l'aide."
+    },
+    "concours": {
+      "description": "Les concours sont organisés chaque année en trois sessions : Mai, Juin, Juillet.",
+      "suggestion": "Consulter le calendrier des concours pour les dates exactes de chaque filière."
+    },
+    "offre_restaurant": {
+      "restaurant_universitaire": "800 places",
+      "cafeteria": "Disponible sur le campus",
+      "foyer": "Disponible sur le campus",
+      "food_court": "Les étudiants ont accès au food court du Parc Technopolis."
+    },
+    "transport": {
+      "bus_ville": "Bus 202",
+      "pass_ui": "Pass ENIAD chaque 30 minutes",
+      "navettes": "Navettes mutualisées de Hakom"
+    },
+    "faq": [
+      {"question": "Comment candidater à l'ENIAD Berkane ?", "reponse": "La candidature se fait en ligne sur le site officiel de l'ENIAD Berkane."},
+      {"question": "Quels sont les programmes offerts ?", "reponse": "L'ENIAD Berkane propose des formations en Génie Civil, Génie Informatique, Génie Electrique, et bien d'autres."},
+      {"question": "Quelles sont les conditions d'admission ?", "reponse": "Les candidats doivent être titulaires du Bac et réussir un concours d'entrée."},
+      {"question": "Quels sont les frais de scolarité ?", "reponse": "Les frais varient selon la formation, avec un coût moyen de 50 000 dhs par an pour les non-boursiers."},
+      {"question": "Comment postuler pour une bourse ?", "reponse": "Les bourses sont attribuées sur la base des résultats du Bac et des ressources financières limitées."},
+      {"question": "Est-ce que l'ENIAD Berkane propose des formations en ligne ?", "reponse": "Actuellement, les formations sont principalement en présentiel."},
+      {"question": "Quels sont les programmes de Master disponibles ?", "reponse": "L'ENIAD Berkane propose des Masters en Génie Civil, Informatique, et plusieurs autres spécialités."},
+      {"question": "Comment sont organisées les sessions de concours ?", "reponse": "Il y a trois sessions de concours par an, en Mai, Juin et Juillet."},
+      {"question": "Quels documents sont nécessaires pour l'inscription ?", "reponse": "Il faut fournir une copie du Bac, des relevés de notes, et d'autres pièces demandées sur le site de candidature."},
+      {"question": "L'ENIAD Berkane propose-t-elle des stages ?", "reponse": "Oui, l'ENIAD Berkane organise des stages en entreprise pour ses étudiants."},
+      {"question": "Quel est le taux de réussite au Bac ?", "reponse": "Le taux de réussite au Bac de l'ENIAD Berkane est très élevé grâce à la qualité de l'enseignement."},
+      {"question": "L'ENIAD Berkane offre-t-elle des formations en alternance ?", "reponse": "Oui, certaines formations sont disponibles en alternance avec des entreprises partenaires."},
+      {"question": "Quels sont les services offerts aux étudiants ?", "reponse": "Les étudiants ont accès à des bibliothèques, des salles informatiques, un restaurant universitaire, et des espaces de détente."},
+      {"question": "Le campus dispose-t-il d'un service de santé ?", "reponse": "Oui, un centre de santé est disponible sur le campus pour les étudiants."},
+      {"question": "Y a-t-il des clubs étudiants ?", "reponse": "Oui, l'ENIAD Berkane dispose de plusieurs clubs étudiants pour les loisirs et le développement personnel."},
+      {"question": "Comment sont les logements étudiants ?", "reponse": "Il y a des résidences universitaires disponibles à proximité du campus."},
+      {"question": "Quels moyens de transport sont disponibles ?", "reponse": "Le campus est bien desservi par les bus de la ville et les navettes de l'ENIAD."},
+      {"question": "L'ENIAD Berkane est-elle accréditée ?", "reponse": "Oui, l'ENIAD Berkane est accréditée par l'État et propose des diplômes reconnus."},
+      {"question": "Est-ce que l'ENIAD Berkane organise des événements pour les étudiants ?", "reponse": "Oui, plusieurs événements sont organisés tout au long de l'année."},
+      {"question": "Comment se déroule l'enseignement à l'ENIAD Berkane ?", "reponse": "L'enseignement se fait en cours magistraux, travaux dirigés et pratiques."},
+      {"question": "Quelles sont les modalités d'examen ?", "reponse": "Les examens sont organisés sous forme de partiels, de projets et de soutenances."},
+      {"question": "Les étudiants peuvent-ils participer à des projets de recherche ?", "reponse": "Oui, les étudiants peuvent participer à des projets de recherche en collaboration avec des professeurs."},
+      {"question": "L'ENIAD Berkane dispose-t-elle d'une bibliothèque ?", "reponse": "Oui, une bibliothèque bien équipée est à la disposition des étudiants."},
+      {"question": "Y a-t-il une activité sportive à l'ENIAD Berkane ?", "reponse": "Oui, un complexe sportif est disponible pour les étudiants."},
+      {"question": "Comment l'ENIAD Berkane prépare-t-elle ses étudiants au marché du travail ?", "reponse": "L'ENIAD Berkane offre des formations axées sur les besoins du marché et organise des stages en entreprise."},
+      {"question": "Les étudiants internationaux peuvent-ils étudier à l'ENIAD Berkane ?", "reponse": "Oui, l'ENIAD Berkane accueille des étudiants internationaux dans ses programmes."},
+      {"question": "L'ENIAD Berkane offre-t-elle des formations en informatique ?", "reponse": "Oui, des formations en génie informatique sont proposées."},
+      {"question": "Quelles sont les possibilités d'emploi après l'obtention du diplôme ?", "reponse": "Les diplômés de l'ENIAD Berkane trouvent facilement un emploi grâce aux partenariats avec des entreprises locales et internationales."},
+      {"question": "Comment se déroule la vie étudiante sur le campus ?", "reponse": "La vie étudiante à l'ENIAD Berkane est dynamique, avec des clubs, des événements et des activités sociales."},
+      {"question": "L'ENIAD Berkane propose-t-elle des échanges internationaux ?", "reponse": "Oui, des programmes d'échange avec des universités étrangères sont proposés."},
+      {"question": "Quels sont les avantages d'étudier à l'ENIAD Berkane ?", "reponse": "L'ENIAD Berkane offre des formations de qualité, des infrastructures modernes, et des opportunités professionnelles."},
+      {"question": "Est-ce que l'ENIAD Berkane propose des formations en architecture ?", "reponse": "Oui, il existe une formation en architecture à l'ENIAD Berkane."},
+      {"question": "Quelles sont les démarches administratives pour intégrer l'ENIAD Berkane ?", "reponse": "Il faut remplir un dossier de candidature en ligne et réussir le concours d'admission."},
+      {"question": "Y a-t-il un service de soutien pour les étudiants ?", "reponse": "Oui, un service de tutorat et d'accompagnement est disponible pour les étudiants."},
+      {"question": "Comment obtenir un stage à l'ENIAD Berkane ?", "reponse": "Les étudiants peuvent postuler aux offres de stage disponibles sur la plateforme dédiée."},
+      {"question": "Quels sont les projets innovants menés par l'ENIAD Berkane ?", "reponse": "L'ENIAD Berkane soutient de nombreux projets innovants dans les domaines du génie et de l'informatique."},
+      {"question": "Comment se déroule la rentrée universitaire ?", "reponse": "La rentrée universitaire se fait généralement en septembre, avec des journées d'intégration pour les nouveaux étudiants."},
+      {"question": "Est-ce que l'ENIAD Berkane propose une formation en médecine ?", "reponse": "Non, l'ENIAD Berkane ne propose pas de formation en médecine."},
+      {"question": "Comment accéder au campus ?", "reponse": "Le campus est accessible en transport public ou via des navettes réservées aux étudiants."},
+      {"question": "Les étudiants peuvent-ils emprunter des livres à la bibliothèque ?", "reponse": "Oui, les étudiants peuvent emprunter des livres pour leurs recherches et études."},
+      {"question": "Y a-t-il une option de logement sur le campus ?", "reponse": "Des résidences universitaires sont disponibles à proximité du campus pour les étudiants."}
+    ]
+  }
+  

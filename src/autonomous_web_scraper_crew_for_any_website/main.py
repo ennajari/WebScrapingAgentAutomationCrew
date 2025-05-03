@@ -12,17 +12,17 @@ def run():
     Run the crew.
     """
     inputs = {
-        'target_url': 'https://eniad.ump.ma/',
-        'url': 'https://eniad.ump.ma/',
-        'title': 'https://eniad.ump.ma/',
-        'headers': 'https://eniad.ump.ma/',
-        'metadata': 'https://eniad.ump.ma/',
-        'text': 'https://eniad.ump.ma/',
-        'images': 'https://eniad.ump.ma/',
-        'links': 'https://eniad.ump.ma/',
-        'tables': 'https://eniad.ump.ma/',
-        'documents': 'https://eniad.ump.ma/',
-        'timestamp': 'https://eniad.ump.ma/'
+        'target_url': 'https://ensas.uca.ma/Annonce/ensas',
+        'url': 'https://ensas.uca.ma/Annonce/ensas',
+        'title': 'https://ensas.uca.ma/Annonce/ensas',
+        'headers': 'https://ensas.uca.ma/Annonce/ensas',
+        'metadata': 'https://ensas.uca.ma/Annonce/ensas',
+        'text': 'https://ensas.uca.ma/Annonce/ensas',
+        'images': 'https://ensas.uca.ma/Annonce/ensas',
+        'links': 'https://ensas.uca.ma/Annonce/ensas',
+        'tables': 'https://ensas.uca.ma/Annonce/ensas',
+        'documents': 'https://ensas.uca.ma/Annonce/ensas',
+        'timestamp': 'https://ensas.uca.ma/Annonce/ensas'
     }
     AutonomousWebScraperCrewForAnyWebsiteCrew().crew().kickoff(inputs=inputs)
 
@@ -32,17 +32,17 @@ def train():
     Train the crew for a given number of iterations.
     """
     inputs = {
-        'target_url': 'https://eniad.ump.ma/',
-        'url': 'https://eniad.ump.ma/',
-        'title': 'https://eniad.ump.ma/',
-        'headers': 'https://eniad.ump.ma/',
-        'metadata': 'https://eniad.ump.ma/',
-        'text': 'https://eniad.ump.ma/',
-        'images': 'https://eniad.ump.ma/',
-        'links': 'https://eniad.ump.ma/',
-        'tables': 'https://eniad.ump.ma/',
-        'documents': 'https://eniad.ump.ma/',
-        'timestamp': 'https://eniad.ump.ma/'
+        'target_url': 'https://ensas.uca.ma/Annonce/ensas',
+        'url': 'https://ensas.uca.ma/Annonce/ensas',
+        'title': 'https://ensas.uca.ma/Annonce/ensas',
+        'headers': 'https://ensas.uca.ma/Annonce/ensas',
+        'metadata': 'https://ensas.uca.ma/Annonce/ensas',
+        'text': 'https://ensas.uca.ma/Annonce/ensas',
+        'images': 'https://ensas.uca.ma/Annonce/ensas',
+        'links': 'https://ensas.uca.ma/Annonce/ensas',
+        'tables': 'https://ensas.uca.ma/Annonce/ensas',
+        'documents': 'https://ensas.uca.ma/Annonce/ensas',
+        'timestamp': 'https://ensas.uca.ma/Annonce/ensas'
     }
     try:
         AutonomousWebScraperCrewForAnyWebsiteCrew().crew().train(n_iterations=int(sys.argv[1]), filename=sys.argv[2], inputs=inputs)
@@ -65,17 +65,17 @@ def test():
     Test the crew execution and returns the results.
     """
     inputs = {
-        'target_url': 'https://eniad.ump.ma/',
-        'url': 'https://eniad.ump.ma/',
-        'title': 'https://eniad.ump.ma/',
-        'headers': 'https://eniad.ump.ma/',
-        'metadata': 'https://eniad.ump.ma/',
-        'text': 'https://eniad.ump.ma/',
-        'images': 'https://eniad.ump.ma/',
-        'links': 'https://eniad.ump.ma/',
-        'tables': 'https://eniad.ump.ma/',
-        'documents': 'https://eniad.ump.ma/',
-        'timestamp': 'https://eniad.ump.ma/'
+        'target_url': 'https://ensas.uca.ma/Annonce/ensas',
+        'url': 'https://ensas.uca.ma/Annonce/ensas',
+        'title': 'https://ensas.uca.ma/Annonce/ensas',
+        'headers': 'https://ensas.uca.ma/Annonce/ensas',
+        'metadata': 'https://ensas.uca.ma/Annonce/ensas',
+        'text': 'https://ensas.uca.ma/Annonce/ensas',
+        'images': 'https://ensas.uca.ma/Annonce/ensas',
+        'links': 'https://ensas.uca.ma/Annonce/ensas',
+        'tables': 'https://ensas.uca.ma/Annonce/ensas',
+        'documents': 'https://ensas.uca.ma/Annonce/ensas',
+        'timestamp': 'https://ensas.uca.ma/Annonce/ensas'
     }
     try:
         AutonomousWebScraperCrewForAnyWebsiteCrew().crew().test(n_iterations=int(sys.argv[1]), openai_model_name=sys.argv[2], inputs=inputs)

@@ -20,7 +20,7 @@ WebScrapingAgentAutomationCrew/
 │       └── tools/
 │           ├── __init__.py
 │           └── custom_tool.py
-└── tests/
+
 
 +agnet : filter(la vie des etudants + relation avec info ,   ) +  faq.uir.ma
 
